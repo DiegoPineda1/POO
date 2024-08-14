@@ -9,7 +9,7 @@ namespace PilaPOO
     internal interface IColleccion
     {
         public abstract bool EstaVacia();
-        public abstract void Extraer();
+        public abstract object Extraer();
         public abstract object Primero();
         public abstract bool Añadir(object e);
     }

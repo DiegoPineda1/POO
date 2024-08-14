@@ -25,12 +25,9 @@ namespace PilaPOO
             }
             catch 
             {
-
                 return false;
             }
-
         }
-
         public bool EstaVacia()
         {
             bool aux = false;
@@ -42,14 +39,24 @@ namespace PilaPOO
             return aux;
         }
 
-        public void Extraer()
+        public object Extraer()
         {
-            throw new NotImplementedException();
+            if (pila.Count == 0)
+                return null;
+
+            object elemento = pila[pila.Count - 1];
+            pila.RemoveAt(pila.Count - 1);
+            return elemento;
+
         }
 
         public object Primero()
         {
-            throw new NotImplementedException();
+            if (pila.Count == 0)
+                return null;
+
+            object elemento = pila[0];
+            return elemento;
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Diego Pineda\\source\\repos\\PilaPoo\\",
+  "WorkspaceRootPath": "C:\\Users\\Diego Pineda\\Desktop\\Trabajo\\POO\\PilaPoo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2188932C-140E-4B01-999E-BF6CBA2676F5}|PilaPOO\\PilaPOO.csproj|c:\\users\\diego pineda\\source\\repos\\pilapoo\\pilapoo\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2188932C-140E-4B01-999E-BF6CBA2676F5}|PilaPOO\\PilaPOO.csproj|c:\\users\\diego pineda\\desktop\\trabajo\\poo\\pilapoo\\pilapoo\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2188932C-140E-4B01-999E-BF6CBA2676F5}|PilaPOO\\PilaPOO.csproj|solutionrelative:pilapoo\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2188932C-140E-4B01-999E-BF6CBA2676F5}|PilaPOO\\PilaPOO.csproj|c:\\users\\diego pineda\\source\\repos\\pilapoo\\pilapoo\\icolleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2188932C-140E-4B01-999E-BF6CBA2676F5}|PilaPOO\\PilaPOO.csproj|c:\\users\\diego pineda\\desktop\\trabajo\\poo\\pilapoo\\pilapoo\\icolleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2188932C-140E-4B01-999E-BF6CBA2676F5}|PilaPOO\\PilaPOO.csproj|solutionrelative:pilapoo\\icolleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2188932C-140E-4B01-999E-BF6CBA2676F5}|PilaPOO\\PilaPOO.csproj|c:\\users\\diego pineda\\source\\repos\\pilapoo\\pilapoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2188932C-140E-4B01-999E-BF6CBA2676F5}|PilaPOO\\PilaPOO.csproj|c:\\users\\diego pineda\\desktop\\trabajo\\poo\\pilapoo\\pilapoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2188932C-140E-4B01-999E-BF6CBA2676F5}|PilaPOO\\PilaPOO.csproj|solutionrelative:pilapoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Pila.cs",
-              "DocumentMoniker": "C:\\Users\\Diego Pineda\\source\\repos\\PilaPoo\\PilaPoo\\Pila.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Desktop\\Trabajo\\POO\\PilaPoo\\PilaPoo\\Pila.cs",
               "RelativeDocumentMoniker": "PilaPoo\\Pila.cs",
-              "ToolTip": "C:\\Users\\Diego Pineda\\source\\repos\\PilaPoo\\PilaPoo\\Pila.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Desktop\\Trabajo\\POO\\PilaPoo\\PilaPoo\\Pila.cs",
               "RelativeToolTip": "PilaPoo\\Pila.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowA8AAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T19:06:08.641Z",
               "EditorCaption": ""
@@ -53,11 +53,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "IColleccion.cs",
-              "DocumentMoniker": "C:\\Users\\Diego Pineda\\source\\repos\\PilaPoo\\PilaPoo\\IColleccion.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Desktop\\Trabajo\\POO\\PilaPoo\\PilaPoo\\IColleccion.cs",
               "RelativeDocumentMoniker": "PilaPoo\\IColleccion.cs",
-              "ToolTip": "C:\\Users\\Diego Pineda\\source\\repos\\PilaPoo\\PilaPoo\\IColleccion.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Desktop\\Trabajo\\POO\\PilaPoo\\PilaPoo\\IColleccion.cs",
               "RelativeToolTip": "PilaPoo\\IColleccion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T19:03:18.966Z",
               "EditorCaption": ""
@@ -66,11 +66,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Diego Pineda\\source\\repos\\PilaPoo\\PilaPoo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Desktop\\Trabajo\\POO\\PilaPoo\\PilaPoo\\Program.cs",
               "RelativeDocumentMoniker": "PilaPoo\\Program.cs",
-              "ToolTip": "C:\\Users\\Diego Pineda\\source\\repos\\PilaPoo\\PilaPoo\\Program.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Desktop\\Trabajo\\POO\\PilaPoo\\PilaPoo\\Program.cs",
               "RelativeToolTip": "PilaPoo\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T19:02:51.492Z",
               "EditorCaption": ""
