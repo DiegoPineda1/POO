@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PilaPOO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c853724f105980d0b983758f4c5563a48873c3a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("PilaPOO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PilaPOO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

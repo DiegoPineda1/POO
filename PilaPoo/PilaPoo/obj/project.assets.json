@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Diego Pineda\\source\\repos\\PilaPoo\\PilaPoo\\PilaPoo.csproj",
-      "projectName": "PilaPoo",
-      "projectPath": "C:\\Users\\Diego Pineda\\source\\repos\\PilaPoo\\PilaPoo\\PilaPoo.csproj",
+      "projectUniqueName": "C:\\Users\\Diego Pineda\\Desktop\\Trabajo\\POO\\PilaPoo\\PilaPOO\\PilaPOO.csproj",
+      "projectName": "PilaPOO",
+      "projectPath": "C:\\Users\\Diego Pineda\\Desktop\\Trabajo\\POO\\PilaPoo\\PilaPOO\\PilaPOO.csproj",
       "packagesPath": "C:\\Users\\Diego Pineda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Diego Pineda\\source\\repos\\PilaPoo\\PilaPoo\\obj\\",
+      "outputPath": "C:\\Users\\Diego Pineda\\Desktop\\Trabajo\\POO\\PilaPoo\\PilaPOO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
