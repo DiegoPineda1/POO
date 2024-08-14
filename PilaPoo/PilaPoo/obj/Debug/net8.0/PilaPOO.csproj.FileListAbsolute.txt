@@ -1,0 +1,14 @@
+C:\Users\Diego Pineda\source\repos\PilaPOO\PilaPOO\bin\Debug\net8.0\PilaPOO.exe
+C:\Users\Diego Pineda\source\repos\PilaPOO\PilaPOO\bin\Debug\net8.0\PilaPOO.deps.json
+C:\Users\Diego Pineda\source\repos\PilaPOO\PilaPOO\bin\Debug\net8.0\PilaPOO.runtimeconfig.json
+C:\Users\Diego Pineda\source\repos\PilaPOO\PilaPOO\bin\Debug\net8.0\PilaPOO.dll
+C:\Users\Diego Pineda\source\repos\PilaPOO\PilaPOO\bin\Debug\net8.0\PilaPOO.pdb
+C:\Users\Diego Pineda\source\repos\PilaPOO\PilaPOO\obj\Debug\net8.0\PilaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Pineda\source\repos\PilaPOO\PilaPOO\obj\Debug\net8.0\PilaPOO.AssemblyInfoInputs.cache
+C:\Users\Diego Pineda\source\repos\PilaPOO\PilaPOO\obj\Debug\net8.0\PilaPOO.AssemblyInfo.cs
+C:\Users\Diego Pineda\source\repos\PilaPOO\PilaPOO\obj\Debug\net8.0\PilaPOO.csproj.CoreCompileInputs.cache
+C:\Users\Diego Pineda\source\repos\PilaPOO\PilaPOO\obj\Debug\net8.0\PilaPOO.dll
+C:\Users\Diego Pineda\source\repos\PilaPOO\PilaPOO\obj\Debug\net8.0\refint\PilaPOO.dll
+C:\Users\Diego Pineda\source\repos\PilaPOO\PilaPOO\obj\Debug\net8.0\PilaPOO.pdb
+C:\Users\Diego Pineda\source\repos\PilaPOO\PilaPOO\obj\Debug\net8.0\PilaPOO.genruntimeconfig.cache
+C:\Users\Diego Pineda\source\repos\PilaPOO\PilaPOO\obj\Debug\net8.0\ref\PilaPOO.dll
